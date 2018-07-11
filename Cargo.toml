@@ -2,6 +2,8 @@
 name = "io-tools"
 version = "0.1.0"
 authors = ["cen5bin <cen5bin@163.com>"]
-description = "some useful io tools in rust"
-
+description = """
+some useful io tools in rust
+"""
+license = "MIT OR Apache-2.0"
 [dependencies]
